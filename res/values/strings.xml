@@ -1,0 +1,34 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MemopadActivity!</string>
+    <string name="app_name">メモパッド</string>
+    <string name="memodb_empty">メモが見つかりません</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_open">開く</string>
+    <string name="menu_new">新規作成</string>
+    <string name="memodb_delate">削除</string>
+    <string name="memodb_confirm_delete">メモを削除します。よろしいですか？</string>
+    <string name="button">Yes</string>
+    <string name="button_cancel">キャンセル</string>
+
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MemopadActivity!</string>
+    <string name="app_name">メモパッド</string>
+    <string name="memodb_empty">メモが見つかりません</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_open">開く</string>
+    <string name="menu_new">新規作成</string>
+    <string name="memodb_delete">削除する</string>
+    <string name="memodb_confirm_delete">本当にメモを削除しますか？</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">キャンセル</string>
+    <string name="button_search">検索</string>
+    <string name="button_hint_search">検索する文字列を入力します</string>
+
+>>>>>>> commmit!
+</resources>
